@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subodh4356
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Javascript and Java 
+- 🌱 I’m currently learning in Electronics & Telecommunications and Cloud / Cybersecurity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me subodh05baj@gmail.com
 
